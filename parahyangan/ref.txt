@@ -1,0 +1,5 @@
+http://demo.themescollective.com/columbia/site/index-slider.html
+
+http://docs.dev7studios.com/jquery-plugins/caroufredsel
+http://mynameismatthieu.com/WOW/docs.html
+http://daneden.github.io/animate.css/
