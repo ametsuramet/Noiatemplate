@@ -1,5 +1,6 @@
 $(document).ready(function(){
     $('#carouselHacked').carousel();
+    $('#carousel-testimonials').carousel();
 	
 	$('[data-toggle="tooltip"]').tooltip();   
 	
@@ -8,7 +9,7 @@ $(document).ready(function(){
 	scrollToTopById(link)
 	return false
 	});
-	
+	/*
 	$('#carousel').carouFredSel({
 			items               :3,
 			height               :300,
@@ -17,7 +18,7 @@ $(document).ready(function(){
             duration        : 1000,                         
             pauseOnHover    : true
 			},
-			});
+			});*/
 	$('#product .panel').hover(function(){
 		$(this).find('.panel-footer').slideDown()
 	},function(){
